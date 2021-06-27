@@ -1,0 +1,18 @@
+panduan instalasi :
+- Anaheim Health Care design gunakan Astah untuk membukanya , jika tidak maka buka Dokumentasi untuk melihat baik SDD , SRS dan dokumen serta Diagram lainnya
+- dibangun menggunakan framework Codeigniter dan Bootstrap sebagai CSS template
+
+
+untuk instalasi sql :
+ - buat database dengan nama dbt_anaheim
+ - import database yg terdapat di repository
+ - jalankan dengan nama http://localhost/AnaheimHealthCare/
+ - selesai
+
+memiliki fitur :
+ - home
+ - pasien page
+ - obat - obatan page
+ - ruangan page
+ - dokter page (under development)
+ - Login (*admin) (under development)
